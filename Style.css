@@ -1,0 +1,268 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.left {
+  background-color: mediumblue;
+  width: 27%;
+  height: 1400px;
+  color: aliceblue;
+}
+
+img {
+  width: 365px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+}
+
+.TituloIzquierdo {
+  background-color: blue;
+  color: aliceblue;
+  padding: 10px;
+  margin: 10px;
+  width: 100px;
+}
+
+.center {
+  text-align: center;
+}
+
+.box2 {
+  text-align: center;
+  font-size: 30px;
+  background-color: black;
+  padding: 5px;
+}
+
+.box3 {
+  text-align: right;
+  background-color: cornsilk;
+  width: 100px;
+  height: 50px;
+  margin: 10px;
+  margin-left: 0px;
+  color: blue;
+  font-size: 40px;
+  padding: 1px;
+}
+
+.correo {
+  text-align: right;
+  position: relative;
+  top: -45px;
+  left: -20px;
+}
+
+.box4 {
+  text-align: right;
+  background-color: cornsilk;
+  width: 100px;
+  height: 50px;
+  margin: 10px;
+  margin-left: 0px;
+  color: blue;
+  font-size: 40px;
+  padding: 1px;
+}
+
+.numero {
+  text-align: right;
+  position: relative;
+  top: -45px;
+  left: -20px;
+}
+
+.box5 {
+  text-align: right;
+  background-color: cornsilk;
+  width: 100px;
+  height: 50px;
+  margin: 10px;
+  margin-left: 0px;
+  color: blue;
+  font-size: 40px;
+  padding: 1px;
+}
+
+.box6 {
+  text-align: right;
+  background-color: cornsilk;
+  width: 100px;
+  height: 50px;
+  margin: 10px;
+  margin-left: 0px;
+  color: blue;
+  font-size: 40px;
+  padding: 1px;
+  position: relative;
+  top: -15px;
+}
+
+.box7 {
+  text-align: center;
+  font-size: 30px;
+  background-color: black;
+  position: relative;
+  top: -10px;
+  padding: 5px;
+}
+
+.barra1 {
+  float: right;
+  position: relative;
+  left: -40px;
+  top: -30px;
+}
+
+.barra2 {
+  float: right;
+  position: relative;
+  left: -40px;
+  top: -30px;
+}
+
+.barra3 {
+  float: right;
+  position: relative;
+  left: -40px;
+  top: -30px;
+}
+
+.box8 {
+  font-size: 30px;
+  position: relative;
+  right: -50px;
+  margin: 5px;
+}
+
+.box9 {
+  font-size: 30px;
+  position: relative;
+  right: -50px;
+  margin: 5px;
+}
+
+.box10 {
+  font-size: 30px;
+  position: relative;
+  right: -50px;
+  margin: 5px;
+}
+
+.box11 {
+  text-align: right;
+  font-size: 30px;
+  background-color: black;
+  color: cornsilk;
+  position: relative;
+  top: 10px;
+  padding: 5px;
+}
+
+.box12 {
+  font-size: 30px;
+  margin-top: 20px;
+  padding: 5px;
+  position: relative;
+  left: 20px;
+}
+
+.barra4 {
+  float: right;
+  position: relative;
+  left: -20px;
+  top: -30px;
+}
+
+.box13 {
+  position: relative;
+  left: 25px;
+  font-size: 30px;
+  padding: 5px;
+}
+
+.barra5 {
+  float: right;
+  position: relative;
+  top: -50px;
+  left: -40px;
+}
+
+.box14 {
+  font-size: 30px;
+  text-align: left;
+  position: relative;
+  left: 25px;
+  padding: 5px;
+}
+
+.barra6 {
+  float: right;
+  position: relative;
+  top: -30px;
+  left: -40px;
+}
+
+.box15 {
+  text-align: right;
+  font-size: 30px;
+  background-color: black;
+  color: cornsilk;
+  position: relative;
+  top: 10px;
+  padding: 5px;
+}
+
+.symbols {
+  font-size: 30px;
+  float: left;
+  position: relative;
+  top: 30px;
+  left: 130px;
+}
+
+.right {
+  float: right;
+  justify-content: right;
+  position: relative;
+  top: -1400px;
+  left: -100px;
+}
+
+.name {
+  font-size: 150px;
+  position: relative;
+  top: -10px;
+}
+
+.apellido {
+  font-size: 100px;
+}
+
+.TituloIzquierdo {
+  padding: 20px;
+  width: 500px;
+  font-size: 70px;
+  border-radius: 10px;
+}
+
+.titlee {
+  font-size: 50px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.text {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+
+.text1 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}
